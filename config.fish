@@ -1,6 +1,9 @@
 abbr gra 'git remote add'
 abbr lll 'ls -al'
 
+alias vim 'nvim'
+alias vi  'nvim'
+
 # Mostly just the default fish_default_mode_prompt, but different colours and strings
 function fish_mode_prompt --description "Display the default mode for the prompt"
     # Do nothing if not in vi mode
